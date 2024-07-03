@@ -35,7 +35,5 @@ public class activity2 {
         }
         else
             System.out.println("All numbers are equal");
-
-
     }
 }
